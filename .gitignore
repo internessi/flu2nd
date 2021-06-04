@@ -40,6 +40,8 @@ build/
 .android/
 .ios/
 .build/
+test/
+
 
 # Avoid committing generated Javascript files:
 *.dart.js
