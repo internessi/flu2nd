@@ -20,9 +20,10 @@
 .vscode/
 
 # Flutter/Dart/Pub related
-.idea
-.idea/
-idea/
+android/
+ios/
+build/
+test/
 doc/api/
 **/doc/api/
 **/ios/Flutter/.last_build_id
@@ -34,13 +35,6 @@ doc/api/
 .pub/
 /build/
 pubspec.lock
-android/
-ios/
-build/
-.android/
-.ios/
-.build/
-test/
 
 
 # Avoid committing generated Javascript files:
