@@ -20,6 +20,9 @@
 .vscode/
 
 # Flutter/Dart/Pub related
+.idea
+.idea/
+idea/
 doc/api/
 **/doc/api/
 **/ios/Flutter/.last_build_id
